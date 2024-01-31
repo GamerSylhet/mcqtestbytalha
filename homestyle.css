@@ -14,6 +14,10 @@ body {
 
 }
 #buttonhome {
+    display: block;
+    margin-top: 55%;
+    margin-left: auto;
+    margin-right: auto;
     background-color: aqua;
     width: 150px;
     height: 50px;
